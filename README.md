@@ -22,6 +22,7 @@ Python · NLTK · JSON
 
 ## Run
 pip install nltk
+
 python main.py
 
 ## Sample Queries
